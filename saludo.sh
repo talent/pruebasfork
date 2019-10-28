@@ -1,1 +1,3 @@
-echo "Hola programadores del Mundo mundial!"
+echo "- Hola Mundo cruel!"
+echo "- Hola pringao"
+
