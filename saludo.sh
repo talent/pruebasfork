@@ -1,3 +1,2 @@
-echo "- Hola Mundo cruel!"
-echo "- Hola pringao"
-
+echo "- 'Hola Mundo cruel!'"
+echo "- 'Hola pringao'"
